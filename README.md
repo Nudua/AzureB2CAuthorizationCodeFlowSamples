@@ -1,5 +1,5 @@
 # Securing an ASP.NET 6 Web App with Azure AD B2C using Authorization Code Flow with PKCE
-Sample code for the blog post [Securing an ASP.NET 6 Web App with Azure AD B2C using Authorization Code Flow with PKCE](https://www.ramstad.io/2022/03/08/Securing-an-ASP-NET-6-Web-App-with-Azure-AD-B2C-using-Authorization-Code-Flow-with-PKCE/) and includes samples for Razor Pages, MVC, and Web Api applications.
+Sample code for the blog post [Securing an ASP.NET 6 Web App with Azure AD B2C using Authorization Code Flow with PKCE](https://www.ramstad.io/2022/03/08/Securing-an-ASP-NET-6-Web-App-with-Azure-AD-B2C-using-Authorization-Code-Flow-with-PKCE/) and includes examples for Razor Pages, MVC, and Web Api applications.
 
 ## Prerequisites
 To run these samples you must have setup an Azure AD B2C tenant and created an application that is configured to use the Authorization Code Flow with a user flow that allows a user to sign in. Which we go through in the post above.
